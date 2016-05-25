@@ -1,3 +1,6 @@
+15.0.1 2016-05-25
+	This is a test release
+
 15.0.0 2016-05-24
 	Fix handling of nested objects in arrays in request parameters
 
